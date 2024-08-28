@@ -1,6 +1,6 @@
-#**Project Goals**#
+**Project Goals**
 ---
-In this Codeacadmey project, you’ll be building your business page that will dynamically respond as you adjust the size of your screen!​
+In this Codeacadmey project,I built a business page that dynamically responds as you adjust your screen size!​
 
 ---
 **Live Site** -  https://aj-shoe-company.netlify.app
